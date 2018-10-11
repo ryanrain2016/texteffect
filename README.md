@@ -1,6 +1,6 @@
 # texteffect
 texteffect for linux shell, color text 
-```
+```python
 from texteffect import *
 print(blue('this is blue!'))
 print(blueonred('this should be blue on red background!'))
